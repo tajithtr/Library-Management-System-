@@ -36,7 +36,7 @@ A simple and modular Library Management System built in C that allows users to m
 ├── books.txt           # File to store book data
 ├── issue.txt           # File to store issued book data
 
-
+```
 
 ## 📌 Best Practices Followed
 
