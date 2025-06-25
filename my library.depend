@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1703080080 source:c:\users\tajit\onedrive\desktop\new\my library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
