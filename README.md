@@ -1,6 +1,9 @@
 # 📚 Library Management System
 
-![Library Screenshot](images/LibrarySystem.png)
+<p align="center">
+  <img src="images/LibrarySystem.png" alt="Library Screenshot" width="500"/>
+</p>
+
 
 A simple and modular Library Management System built in C that allows users to manage book records using a console-based interface. This project was developed as a coursework submission and demonstrates effective use of file handling, modular functions, and best coding practices.
 
