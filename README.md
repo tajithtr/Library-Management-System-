@@ -23,16 +23,19 @@ A simple and modular Library Management System built in C that allows users to m
 - Standard C Libraries (`stdio.h`, `stdlib.h`, `string.h`, `time.h`)
 
 ## 📂 Project Structure
-├── main.c # Contains the main function and menu system
-├── addBook() # Adds a new book to the database
-├── booksList() # Displays all books
-├── del() # Deletes a book by ID
-├── issueBook() # Issues a book to a student
-├── returnBook() # Processes book returns
-├── issueList() # Displays issued book records
-├── searchBook() # Searches for a book by ID
-├── books.txt # File to store book data
-├── issue.txt # File to store issued book data
+
+```text
+├── main.c              # Contains the main function and menu system
+├── addBook()           # Adds a new book to the database
+├── booksList()         # Displays all books
+├── del()               # Deletes a book by ID
+├── issueBook()         # Issues a book to a student
+├── returnBook()        # Processes book returns
+├── issueList()         # Displays issued book records
+├── searchBook()        # Searches for a book by ID
+├── books.txt           # File to store book data
+├── issue.txt           # File to store issued book data
+
 
 
 ## 📌 Best Practices Followed
